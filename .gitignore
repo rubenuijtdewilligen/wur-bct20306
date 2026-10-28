@@ -1,0 +1,22 @@
+# MATLAB tijdelijke bestanden en autosaves
+*.asv
+*.m~
+
+# MATLAB workspace en data bestanden 
+# (Dit voorkomt dat je de dataheat_Vxxx.mat en datacool_Vxxx.mat bestanden uit CE5 uploadt)
+*.mat
+
+# Documentatie en downloads van Brightspace
+*.pdf
+*.zip
+
+# Grote of tijdelijke figuren
+*.fig
+*.jpg
+*.png
+
+# Repomix output
+repomix-output.xml
+
+# System files
+*.DS_Store
